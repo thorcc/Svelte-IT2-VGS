@@ -11,3 +11,6 @@
 5. Høyreklikk på en tom mappe i explorer-vinduet, og velg `create svelte`
 6. Åpne `http://localhost:5000` i nettleseren din
 7. Skriv programmet ditt i `src/App.svelte`
+
+
+- [2 - Kom i gang med Svelte](2-kom-i-gang.md)
