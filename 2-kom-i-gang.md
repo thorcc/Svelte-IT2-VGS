@@ -41,6 +41,3 @@ I vanlig HTML måtte vi skrevet følgende:
 Vi kan bruke nøkkelordet `bind` for å knytte variabler til input felt.
 
 <iframe width="900" height="600" title="bind" src="https://svelte.dev/repl/44a8b0c529a14943b172dede12143fd9?version=3" scrolling="no"></iframe>
-
-- [1 - Oppsett](1-oppsett.md)
-- [2 - Kom i gang med Svelte](2-kom-i-gang.md)
