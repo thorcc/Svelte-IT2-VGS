@@ -1,5 +1,7 @@
 # Web animations API i Svelte
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xz9lYXTyT2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 https://developer.mozilla.org/en-US/docs/Web/API/Element/animate
 
 Vi kan animere HTML-elementer med javascript ved å bruke metoden `.animate` på elementene.
