@@ -45,22 +45,24 @@ Vi kan animere HTML-elementer med javascript ved å bruke metoden `.animate` på
 
 ```HTML
 <script>
-let kongen;
-let kongeanimasjon;
+    import { onMount } from "svelte";
 
-onMount(()=> {
-    // Lagrer animasjonen i en variabel
-    kongeanimasjon = kongen.animate([
-        { transform: "translateY(0px)" },
-        { transform: "translateY(300px)"},
-        { transform: "translateY(100px)" }
-    ],{
-        duration: 1000,
-        iterations: Infinity
+    let kongen;
+    let kongeanimasjon;
+
+    onMount(()=> {
+        // Lagrer animasjonen i en variabel
+        kongeanimasjon = kongen.animate([
+            { transform: "translateY(0px)" },
+            { transform: "translateY(300px)"},
+            { transform: "translateY(100px)" }
+        ],{
+            duration: 1000,
+            iterations: Infinity
+        });
+
+        animasjon.pause(); // Setter animasjonen på pause når siden lastes
     });
-
-    animasjon.pause(); // Setter animasjonen på pause når siden lastes
-});
 
 </script>
 
