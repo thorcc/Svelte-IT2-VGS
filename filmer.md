@@ -1,8 +1,6 @@
-# Dag 1
+# Filmer
 
-Noen ganger henger ikke Scrimba helt med, da er det bare å stoppe filmen og oppdatere mini-nettleseren for å teste ut koden. Man trenger jo ikke å sitte se hele filmene. Bare å spole til slutten og se på koden og oppdatere mini-nettleseren.
-
-## Filmer
+## Intro
 
 | Beskrivelse                              | URL                                |
 | ---------------------------------------- | ---------------------------------- |
@@ -15,14 +13,18 @@ Noen ganger henger ikke Scrimba helt med, da er det bare å stoppe filmen og opp
 | Snurre teksten rundt                     | [https://scrimba.com/scrim/cqp7G2fG](https://scrimba.com/scrim/cqp7G2fG) |
 | Hvem blir president i USA                | [https://scrimba.com/scrim/cLgGkPAV](https://scrimba.com/scrim/cLgGkPAV) |
 
-# GUI
+## GUI
 | Beskrivelse                        | URL                                |
 | ---------------------------------- | ---------------------------------- |
 | Select-liste (Velg hovedrett)      | [https://scrimba.com/scrim/ceq796AR](https://scrimba.com/scrim/ceq796AR) |
 | Samme eksempelet med radio-knapper | [https://scrimba.com/scrim/cnP7PkCN](https://scrimba.com/scrim/cnP7PkCN) |
 |                                    |                                    |
 
+## Diverse
 
-## Oppgaver
-
-Gjør eksamensoppgavene som ligger på teams. Dere trenger bare lage applikasjonene, ikke testplaner, wireframes osv.
+|Beskrivelse   |URL   |
+|--------------|-------------------------------------------|
+|Lyd og video  |[https://www.youtube.com/watch?v=fp3W0NZxQ5s](https://www.youtube.com/watch?v=fp3W0NZxQ5s)|
+|Hendelser      |[https://www.youtube.com/watch?v=CqCeL0nK-jo](https://www.youtube.com/watch?v=CqCeL0nK-jo)   |
+|Hendelse med parametere|[https://www.youtube.com/watch?v=WeZKDoZBuwM](https://www.youtube.com/watch?v=WeZKDoZBuwM)|
+|Animasjoner|[https://www.youtube.com/watch?v=Xz9lYXTyT2o](https://www.youtube.com/watch?v=Xz9lYXTyT2o)|
