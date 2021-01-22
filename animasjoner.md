@@ -1,4 +1,4 @@
-# Web animations API i Javascript
+# Web animations API i Svelte
 
 https://developer.mozilla.org/en-US/docs/Web/API/Element/animate
 
