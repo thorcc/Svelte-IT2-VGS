@@ -1,12 +1,12 @@
 <!-- _navbar.md -->
 * Svelte
   * Introduksjon
-    * [Oppsett](./1-oppsett.md)
-    * [Kom i gang](./2-kom-i-gang.md)
+    * [Oppsett](./introduksjon/1-oppsett.md)
+    * [Kom i gang](./introduksjon/2-kom-i-gang.md)
   
   * Animasjoner
-    * [Overganger](./transitions.md)
-    * [.animate](./animasjoner.md)
+    * [Overganger](./animasjoner/transitions.md)
+    * [.animate](./animasjoner/animasjoner.md)
   
   * Diverse
     * [Filmer](./filmer.md)
