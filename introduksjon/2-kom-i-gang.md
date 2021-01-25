@@ -1,7 +1,7 @@
 # Kom i gang med Svelte
 
 Svelte er et rammeverk for å bygge nettsider.
-For å lagge nettsider i Svelte skriver man for det meste vanlig HTML, CSS og Javascript.
+For å lage nettsider i Svelte skriver man for det meste vanlig HTML, CSS og Javascript.
 La oss se på noen eksempler:
 
 ## Hallo Verden
