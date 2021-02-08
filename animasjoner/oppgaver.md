@@ -9,7 +9,7 @@ Oppgavene bygger på hverandre, så du kan gjøre alle i samme fil.
 4. Hvis animasjonen har stoppet, skal knappen starte den igjen (Du kan legge til en ny knapp, hvis du ikke klarer det med samme).
 5. Legg en knapp som kjører animasjonen i dobbel fart.
 6. Legg til en slider som styrer hastigheten på animasjonen
-7. Hvis brukeren trykker på mellomromstasten skal animasjonen starte/stoppe
+7. Hvis brukeren trykker på mellomromstasten, skal animasjonen starte/stoppe
 
 ## Vedlegg
 
