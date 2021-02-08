@@ -1,5 +1,9 @@
 # Bilder
 
+Fagtekst kommer..
+
+## Filtyper
+
 |Filformat          |Type           |Beskrivelse            |
 |-------------------|---------------|-----------------------|
 |.jpg/.jpeg         |Raster(piksler)|Pikselbasert. Brukes til fotografier o.l.|
