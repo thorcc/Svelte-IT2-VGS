@@ -15,6 +15,8 @@
   * Multimedier
     * [Bilder](./multimedier/Bilder.md)
     * [SVG](./multimedier/SVG.md)
+    * [Lyd](./multimedier/Lyd.md)
+    * [Video](./multimedier/Video.md)
     * [Oppgaver](./multimedier/oppgaver.md)
 
   * Diverse
