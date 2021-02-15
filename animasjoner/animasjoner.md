@@ -89,3 +89,7 @@ Vi kan animere HTML-elementer med javascript ved å bruke metoden `.animate` på
 Med egenskapen `.playbackRate` kan vi endre hastigheten til en animasjon, se eksempel under.
 
 <iframe width="900" height="600" title="Animasjonshastighet" src="https://svelte.dev/repl/465bef3f336e43508309ef726bbb1e3f?version=3.32.1" scrolling="no"></iframe>
+
+## Eksempel 4 - Animasjon med flere CSS-egenskaper
+
+<iframe width="900" height="600" title="Animasjonshastighet" src="https://svelte.dev/repl/9d0636ff75f2412599ea6aa6a03b4f2a?version=3.32.3" scrolling="no"></iframe>
