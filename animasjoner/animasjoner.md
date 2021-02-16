@@ -19,7 +19,7 @@ Vi kan animere HTML-elementer med javascript ved å bruke metoden `.animate` på
   - `iterations`: Antall ganger animasjonen skal kjøre, `Infinity` er for alltid. (Number)
   - `delay`: Antall millisekunder før animasjonen starter. (Number)
   - `direction`: Retningen på animasjonen, kan være: `normal`, `reverse`, `alternate`, `alternate-reverse`. (String)
-  - `easing`: Hvordan animasjonen endrer seg over en iterasjon, kan være: `linear`,`ease`, `ease-in`, `ease-in-out`, eller `cubic-bezier()`, [mer om easing](https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function). (String)
+  - `easing`: Hvordan animasjonen endrer seg over en iterasjon, kan være: `linear`,`ease`, `ease-in`, `ease-in-out`, `step(10)` eller `cubic-bezier()`, [mer om easing](https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function). (String)
   - `fill`: Hva som skjer med elementet når animasjonen er ferdig. `forwards` lar elementet bli slik det er ved slutten av animasjonen, `backwards` endrer det tilbake til utangspunktet. (String)
 
 > OBS! For å bruke .animate i svelte, må vi vente til siden har lastet. Dette gjøres ved å importere funksjonen `onMount` fra svelte-biblioteket, og putte animasjonene inn i den funksjonen. Se eksempel under.
